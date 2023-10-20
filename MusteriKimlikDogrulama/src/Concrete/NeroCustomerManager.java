@@ -1,0 +1,7 @@
+package Concrete;
+
+import Abstract.BaseCustomerManager;
+import Abstract.CustomerService;
+
+public class NeroCustomerManager extends BaseCustomerManager {
+}
