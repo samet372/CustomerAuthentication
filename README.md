@@ -1,2 +1,2 @@
 # CustomerAuthentication
-Customer authentication application I developed with Java
+A customer verification system that I made in Java and works with the Mernis service.
